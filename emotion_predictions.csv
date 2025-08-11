@@ -1,0 +1,5 @@
+start_time,end_time,turn_name,emotion,valence,activation,dominance,text,label,gemini_emotion_prediction
+7.63,8.57,Ses01M_impro07_F000,neu,4,2,2.5,Yeah.,2,neutral
+48.73,52.86,Ses01M_impro07_M006,hap,4,3,2.0,"I don't know. I should ask. Yeah, I will.",1,neutral
+58.78,60.21,Ses01M_impro07_F010,neu,3,2,2.0,Oh.,2,neutral
+65.12,67.05,Ses01M_impro07_F012,sad,3,2,1.0,That's terrible.,3,sad
